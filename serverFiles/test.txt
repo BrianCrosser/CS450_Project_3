@@ -1,0 +1,8 @@
+total 60
+drwx------ 2 bcrosser bcrosser  4096 Oct 28 13:06 .
+drwx------ 6 bcrosser bcrosser  4096 Oct 28 09:22 ..
+-rw------- 1 bcrosser bcrosser  8134 Oct 28 13:04 client.cpp
+-rwx------ 1 bcrosser bcrosser 13641 Oct 28 13:05 client.x
+-rw------- 1 bcrosser bcrosser  8935 Oct 28 13:03 server.cpp
+-rwx------ 1 bcrosser bcrosser 13721 Oct 28 13:03 server.x
+-rw------- 1 bcrosser bcrosser     0 Oct 28 13:06 test.txt
